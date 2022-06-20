@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pdtane
-- 👀 I’m interested in full-stack software development, natural language processing, data engineering.
+- 👀 I’m interested in full-stack software development, data engineering.
 - 🌱 I’m currently learning Flask.
 - 💞️ I’m looking to collaborate on any development project in JavaScript, Python, C#.
 - 📫 How to reach me ...
